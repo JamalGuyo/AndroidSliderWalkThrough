@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Arch</string>
+
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Welcome To Arch!</string>
+    <string name="slide_1_desc">The easiest way to find Landscape and Architectural Designs!</string>
+
+    <string name="slide_2_title">Architecture Trends</string>
+    <string name="slide_2_desc">We keep you updated on the latest designs in the market!</string>
+
+    <string name="slide_3_title">Great Visuals</string>
+    <string name="slide_3_desc">Awesome Picture Representation of designs!</string>
+
+    <string name="slide_4_title">Connect To Architects</string>
+    <string name="slide_4_desc">Communicate with the various designers around your area!</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+</resources>

@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/jamal/firebase/firebase/Arch/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-ldltr-v21/values-ldltr-v21.xml",
+            "map": [
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta1.aar/7287a0dd62c3f1d8970eb629d3940b54/res/values-ldltr-v21/values-ldltr-v21.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "112",
+                        "endOffsets": "163"
+                    }
+                }
+            ]
+        }
+    ]
+}
